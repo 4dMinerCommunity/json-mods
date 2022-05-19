@@ -1,0 +1,118 @@
+[
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Stick", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Air", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Grass", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Dirt", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Stone", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Wood", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Leaf", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Lava", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Iron Ore", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Deadly Ore", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Chest", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Midnight Grass", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Midnight Soil", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Midnight Stone", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Midnight Wood", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Midnight Leaf", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Hammer", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Iron Pick", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Deadly Pick", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Iron Axe", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Deadly Axe", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Rock", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Hypersilk", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Iron Bars", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Deadly Bars", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Compass", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "4D Glasses", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Klein Bottle", "count": 100}
+	},
+	{
+		"recipe": [{"name": "Stick", "count": 1}],
+		"result": {"name": "Health Potion", "count": 100}
+	}
+]
